@@ -54,5 +54,12 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "Nike Mercurial V",
+        "image": "nikemercurial.jpg",
+        "descriptio": "Fastest nike boots ever made",
+        "price": 499.99 
     }
 ]
